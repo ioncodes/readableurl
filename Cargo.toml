@@ -9,3 +9,6 @@ exclude = [
     ".idea/*",
     "*.iml",
 ]
+
+[dependencies]
+rand = "*"
