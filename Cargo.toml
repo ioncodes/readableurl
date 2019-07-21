@@ -1,0 +1,11 @@
+[package]
+name = "readableurl"
+version = "0.1.0"
+authors = ["Luca Marcelli <luca@cerrato.ch>"]
+edition = "2018"
+description = "Generate readable URLs"
+license = "MIT"
+exclude = [
+    ".idea/*",
+    "*.iml",
+]
